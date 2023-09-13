@@ -1,9 +1,10 @@
 # GEEBasic_Javascript
 
-✅ Tutorial 1
-✔ Sorting Sentinel Image dataset and sorting it
+Google Earth Engine - JavaScript Tutorial - Sorting Sentinel Image dataset and sorting it
 
 In this tutorial for Google Earth Engine using JavaScript, we will learn how to sort the Sentinel Image dataset. We will also cover the process of sorting it.
+
+
 
 // Add your study area shapefile and center it in the map viewing window
 Map.centerObject(roi,13);
